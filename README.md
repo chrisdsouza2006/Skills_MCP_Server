@@ -1253,6 +1253,10 @@ python -m src.server --transport http --port 8080
 
 Skills MCP Server is a local-first engineering tool. It contains zero tracking, zero telemetry, and zero remote analytics. All skill indexing, search queries, and prompt resolutions execute strictly in local process memory on your machine. For complete details, see [PRIVACY.md](PRIVACY.md).
 
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, how to add workflow profiles, commit conventions, and the pull request checklist.
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. Individual skill files retain their respective author licenses in their corresponding directories.
